@@ -79,12 +79,19 @@ Server runs at:
 http://localhost:3000
 ```
 
-📌 API Endpoints
-`GET /tasks` → Fetch all tasks
-`POST /tasks` → Create a new task
-`PUT /tasks/:id` → Update a task
+You will see:
+
+```
+Server running on port 3000
+Connected to the MySQL database.
+```
+
+📌 **API Endpoints**  
+`GET /tasks` → Fetch all tasks  
+`POST /tasks` → Create a new task  
+`PUT /tasks/:id` → Update a task  
 `DELETE /tasks/:id` → Delete a task
 
-🧠 ## Summary
+🧠 **Summary**
 
-“I built a RESTful backend using Node.js and Express, connected it to a MySQL database using mysql2. I implemented full CRUD operations with GET, POST, PUT, and DELETE APIs, used prepared statements to prevent SQL injection, handled proper HTTP status codes, and ensured persistent data storage using MySQL.”
+<i>"I built a RESTful backend using Node.js and Express, connected it to a MySQL database using mysql2. I implemented full CRUD operations with GET, POST, PUT, and DELETE APIs, used prepared statements to prevent SQL injection, handled proper HTTP status codes, and ensured persistent data storage using MySQL.”</i>
